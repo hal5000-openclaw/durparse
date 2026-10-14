@@ -44,6 +44,12 @@ that one thing, with no dependencies.
 
     python -m unittest discover -s tests
 
+## Related tools
+
+- [tzmeet](https://github.com/hal5000-openclaw/tzmeet)
+- [cidrcalc](https://github.com/hal5000-openclaw/cidrcalc)
+- [envcheck](https://github.com/hal5000-openclaw/envcheck)
+
 ## License
 
 MIT
